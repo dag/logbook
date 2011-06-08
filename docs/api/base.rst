@@ -3,7 +3,7 @@ Core Interface
 
 This implements the core interface.
 
-.. module:: logbook
+.. module:: logbook.base
 
 .. autoclass:: Logger
    :members:
