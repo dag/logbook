@@ -15,7 +15,7 @@ Base Interface
    :members:
    :inherited-members:
 
-.. autoclass:: NestedSetup
+.. autoclass:: logbook.base.NestedSetup
    :members:
 
 .. autoclass:: StringFormatter
